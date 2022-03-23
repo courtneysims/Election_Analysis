@@ -1,5 +1,5 @@
-Counties in the Electon
-----------------------
-Arapahoe
-Denver
-Jefferson
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
