@@ -13,7 +13,7 @@ The purpose of this analysis is to conduct a congressional election audit for th
 
 ## Results
 The analysis of the election shows that:
-- The total vote in the election was 369,711.
+- The total vote in the election was **369,711**.
 - The counties:
     - Jefferson
     - Denver
