@@ -27,28 +27,35 @@ The analysis of the election shows that:
     
 - The number and percentage of votes per county:
 
-    -Jefferson: 10.5% of total vote with 38,855 votes.
+    Jefferson: **10.5%** of total vote with **38,855** votes.
     
-    Denver: 82.8% of total vote with 306,055 votes.
+    Denver: **82.8%** of total vote with **306,055** votes.
     
-    Arapahoe: 6.7% of total vote with 24,801 votes.
+    Arapahoe: **6.7%** of total vote with **24,801** votes.
     
     
 - The candidate results were:
 
-    -Charles Casper Stockham received 23.0% of the total votes and 85,213 votes.
+    Charles Casper Stockham received **23.0%** of the total votes and **85,213** votes.
     
-    -Diana DeGette received 73.8% of the total votes and 272,892 votes.
+    Diana DeGette received **73.8%** of the total votes and **272,892** votes.
     
-    -Raymon Anthony Doane received 3.1% of the total votes and 11,606 votes.
+    Raymon Anthony Doane received **3.1%** of the total votes and **11,606** votes.
     
 - The winner of the congressional election:
  
-    -Diana DeGette, who received 73.8% of the total votes and 272,892 votes.
+    Diana DeGette, who received **73.8%** of the total votes and **272,892** votes.
+    
+<img src="https://github.com/courtneysims/Election_Analysis/blob/9f23f2427923777e8712c55b0a4eaf34655f0058/Resources/Election%20Results.png" width="40%">
      
 ## Election-Audit Summary
-The script can be modified to include additional breakdown of voter turnout, and can be modified to analyze larger scale elections. The script for analyzing the counties can be modified to analyze states. It can also be modified to account for voter party affiliation should the data source include such data. 
+The script can be modified to include additional breakdown of voter turnout and can be modified to analyze federal elections. The script for analyzing the counties can be modified to analyze states by reassigning the county variables to track states. It can also be modified to account for voter party affiliation should the data source include such data by adding a list and dictionary to the script and writing code blocks similar to those used for analyzing the county votes. 
+
+<img src="https://github.com/courtneysims/Election_Analysis/blob/9f23f2427923777e8712c55b0a4eaf34655f0058/Resources/county_vote_script.png" width="50%">
+
+<img src="https://github.com/courtneysims/Election_Analysis/blob/9f23f2427923777e8712c55b0a4eaf34655f0058/Resources/county_tracking_script.png" width="50%">
+
 ### Resources
-Data Sources: election_results.csv
+Data Source: election_results.csv
 
 Software: Python 3.9.7, Visual Studios Code, 1.65.2
