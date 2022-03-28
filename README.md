@@ -36,15 +36,15 @@ The analysis of the election shows that:
     
 - The candidate results were:
 
-    Charles Casper Stockham received **23.0%** of the total votes and **85,213** votes.
+    Charles Casper Stockham received **23.0%** of the total vote and **85,213** votes.
     
-    Diana DeGette received **73.8%** of the total votes and **272,892** votes.
+    Diana DeGette received **73.8%** of the total vote and **272,892** votes.
     
-    Raymon Anthony Doane received **3.1%** of the total votes and **11,606** votes.
+    Raymon Anthony Doane received **3.1%** of the total vote and **11,606** votes.
     
 - The winner of the congressional election:
  
-    Diana DeGette, who received **73.8%** of the total votes and **272,892** votes.
+    Diana DeGette, who received **73.8%** of the total vote and **272,892** votes.
     
 <img src="https://github.com/courtneysims/Election_Analysis/blob/9f23f2427923777e8712c55b0a4eaf34655f0058/Resources/Election%20Results.png" width="40%">
      
