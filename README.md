@@ -58,4 +58,4 @@ The script can be modified to include additional breakdown of voter turnout and 
 ### Resources
 Data Source: election_results.csv
 
-Software: Python 3.9.7, Visual Studios Code, 1.65.2
+Software: Python 3.9.7, Visual Studio Code, 1.65.2
